@@ -1,0 +1,8 @@
+FirstNames,SurnameOrCompanyName,IdNumber,ReferenceNumber,Product,Fund,DateApplicable,Amount,Currency
+John,Doe,8001010000001,AA100,AA Pinnacle,AA Balanced,31/01/2000,1000,ZAR
+,Umbrella,U/1/1001,AA200,AA Excelsior,AA Equity,30/01/2000,2100,EUR
+Jane,Smith,7001010000002,AA300,AA Prime,AA Bond,31/01/2000,3000,ZAR
+Rob,Jones,6001010000003,AA400,AA Pinnacle,AA Balanced,30/01/2000,1000,ZAR
+Adam,Alexander,5001010000004,AA500,AA Prime,AA Money Market,31/01/2000,1250,USD
+,Buy More,BUY/1/2002,AA600,AA Excelsior,AA Balanced,30/01/2000,2750,USD
+Ethan,Eric,4001010000005,AA700,AA Pinnacle,AA Equity,31/01/2000,1750,EUR
